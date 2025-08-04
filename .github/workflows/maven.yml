@@ -19,4 +19,4 @@ jobs:
 
       - name: Build with Maven
         run: mvn clean package
-        working-directory: ./killrewardpunish
+        working-directory: ./KillRewardPunish
